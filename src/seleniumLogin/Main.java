@@ -8,6 +8,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		// Created by Prasanga Fernando
+		//Orange HRM demo
 		System. setProperty("webdriver.chrome.driver", "C:\\Users\\Prasanga Fernando\\Documents\\Eclipse\\seleniumLogin\\seleniumLib\\chromedriver.exe");
 		
 		WebDriver driver = new ChromeDriver();
